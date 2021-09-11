@@ -1,15 +1,11 @@
 # GrapeGarden
-一个非常干净，无木马的Ghost系统(使用MSDN镜像制作)
+一个非常干净，无木马的Ghost系统项目(使用MSDN镜像制作)
 
 
 
 
 是否激活：Yes
 
-
-
-
-预装软件：IE、Firefox、搜狗输入法
 
 
 
@@ -23,5 +19,8 @@
 
 
 
+目前已制作镜像：
 
-请直接Clone全部文件。很抱歉，为了避开Github文件大小限制，本文件采用分段压缩。
+
+
+1.Windows XP（下载地址：https://github.com/JuicyJammy/GrapeGarden/releases/download/XP/GrapeGardenXP.7z）
