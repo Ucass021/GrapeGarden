@@ -23,4 +23,4 @@
 
 
 
-1.Windows XP（下载地址：https://github.com/JuicyJammy/GrapeGarden/releases/download/XP/GrapeGardenXP.7z）
+1.Windows XP下载地址：https://github.com/JuicyJammy/GrapeGarden/releases/download/XP/GrapeGardenXP.7z
