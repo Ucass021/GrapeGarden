@@ -24,3 +24,7 @@
 
 
 1.Windows XP下载地址：https://github.com/JuicyJammy/GrapeGarden/releases/download/XP/GrapeGardenXP.7z
+
+
+
+2.Windows 7下载地址： https://github.com/JuicyJammy/GrapeGarden/releases/tag/Win7                    （Windows 7文件被分段压缩，打开网页后下载六个Windows7文件）
